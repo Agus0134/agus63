@@ -1,0 +1,34 @@
+
+h2{
+    color: green;
+}
+h5{
+    color: red;
+    font-size: 20px; 
+}
+
+.listas_ordenadas{
+padding: 10px;
+}
+
+
+table, th, td{
+    border: 1px solid black ;
+    border-collapse: collapse; 
+}
+.enlace{
+    font-size: 12px;
+    text-align: center;
+    list-style: none;
+}
+
+.descripcion{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+h5 .ir{
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+}
